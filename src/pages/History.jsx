@@ -64,7 +64,7 @@ getAllwatchHistory();
         </table>
       </>
     </div>
-  );
+);
 }
 
 export default History;
